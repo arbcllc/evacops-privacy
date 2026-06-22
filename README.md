@@ -7,7 +7,7 @@ Static privacy-policy site intended for:
 ## Review before publishing
 
 1. Have ARBC business/legal counsel review the policy language.
-2. Confirm `https://arbcllc.com` is the desired privacy-contact route.
+2. Confirm `https://arbceng.com/` is the desired privacy-contact route.
 3. Confirm the effective date in `index.html`.
 4. Keep the policy aligned with the App Store privacy questionnaire and the app's actual data practices.
 
